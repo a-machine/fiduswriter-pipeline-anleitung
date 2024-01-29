@@ -1,6 +1,6 @@
 ## Fidus Writer Pipeline User Guide
 
-v0.0, 2024
+v0.2, 2024
 
 
 ### Copyright and license
