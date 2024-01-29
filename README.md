@@ -1,4 +1,4 @@
-## Fidus Writer Pipeline User Guide
+## Fidus Writer Pipeline Anleitung (DE)
 
 v0.2, 2024
 
